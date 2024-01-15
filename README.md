@@ -1,2 +1,2 @@
 # quiz
-Generate quiz
+Generate quiz.
